@@ -1,2 +1,2 @@
-# Data-science-Zoomcamp-projects
-Projects from Alexey's classes
+# Data-science-Zoomcamp
+Learnings homeworks and projects from Alexey's zoomcamp
